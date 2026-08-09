@@ -43,7 +43,13 @@ I'm a **Computer Science & Engineering Student** focusing on **Data Analytics**,
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chopradisha86-source&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+---
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chopradisha86-source&theme=dark&background=0d1117&border=161b22&stroke=ff2a5f&fire=ff2a5f&ring=ff2a5f)
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chopradisha86-source&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chopradisha86-source&theme=dark&background=0d1117&border=161b22&stroke=ff2a5f&fire=ff2a5f&ring=ff2a5f&count_private=true)
+
+
 
