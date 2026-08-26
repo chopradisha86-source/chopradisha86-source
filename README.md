@@ -71,33 +71,6 @@ I'm a Computer Science & Engineering student focusing on Data Analytics, Machine
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chopradisha86-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopradisha86-source&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chopradisha86-source&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chopradisha86-source&theme=tokyo-night&hide_border=true" />
-</p>
-
-🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chopradisha86-source&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-📈 **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chopradisha86-source/chopradisha86-source/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chopradisha86-source&color=6C63FF&style=flat" alt="Profile views" />
 </p>
