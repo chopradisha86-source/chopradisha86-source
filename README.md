@@ -52,12 +52,12 @@ I'm a Computer Science & Engineering student focusing on Data Analytics, Machine
 
 ⭐ **Featured Projects**
 
-* **SentinelGraph (FraudNet-Zero)** — Graph-based microservice log analysis & real-time containment system.  
+* **SentinelGraph** — Graph-based microservice log analysis & automated incident containment system.  
   `Memgraph` `PyTorch` `Docker` `Gemini API` `Python`
+* **FraudNet-Zero** — Graph analytics platform designed for bank fraud detection and real-time fund flow tracking.  
+  `Neo4j` `PyTorch` `Apache Kafka` `Python`
 * **Bird-Safe Flight Path Predictor** — Spatio-temporal machine learning model predicting collision risks and plotting safe flight vectors.  
   `Python` `Scikit-Learn` `Pathfinding Algorithms` `Data Analytics`
-* **Rupeezy Setu-AI** — Multilingual voice agent architecture with real-time lead classification and financial compliance guardrails.  
-  `Sarvam AI` `Deepgram` `Python` `System Design`
 * **AdeshAI** — Administrative compliance intelligence engine parsing court judgments and mapping action plans.  
   `LLM Orchestration` `Python` `Power BI` `SQLite`
 
@@ -69,6 +69,5 @@ I'm a Computer Science & Engineering student focusing on Data Analytics, Machine
 * 🎯 Designed visual identities, digital media, and promotional assets for major institute initiatives and flagship fests like **Aarunya**.
 
 ---
-
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
