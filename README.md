@@ -70,7 +70,5 @@ I'm a Computer Science & Engineering student focusing on Data Analytics, Machine
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chopradisha86-source&color=6C63FF&style=flat" alt="Profile views" />
-</p>
+
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
