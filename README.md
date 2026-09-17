@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Disha Chopra</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+Machine+Learning+%7C+Full-Stack+Dev;Building+intelligent+systems+%26+real-time+data+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+Machine+Learning+%7C+Full-Stack+Dev;Building+intelligent+systems+%26+real-time+data+pipelines" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/disha-chopra-1917a6329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
